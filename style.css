@@ -1,0 +1,29 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+.head, .ing, .step, .des, .list-one {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.one {
+    text-align: center;
+}
+
+.title {
+    color: blue;
+    text-align: center;
+}
+
+.ing {
+    color: red;
+    text-align: left;
+    background-color: cornsilk;
+}
+
+.step{
+    color: darkblue;
+    text-align: left;
+    background-color: darkgrey;
+}
